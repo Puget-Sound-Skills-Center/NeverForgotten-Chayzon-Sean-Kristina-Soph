@@ -1,0 +1,28 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/5018761/Documents/GitHub/NeverForgotten-Chayzon-Sean-Kristina-Soph/NeverForgotten/Content/Blueprints/CBP_SandboxCharacter.uasset",
+				"C:/Users/5018761/Documents/GitHub/NeverForgotten-Chayzon-Sean-Kristina-Soph/NeverForgotten/Content/Blueprints/RetargetedCharacters/CBP_SandboxCharacter_Quinn.uasset",
+				"C:/Users/5018761/Documents/GitHub/NeverForgotten-Chayzon-Sean-Kristina-Soph/NeverForgotten/Content/Blueprints/RetargetedCharacters/CBP_SandboxCharacter_RetargetShowcase_Mannequins.uasset",
+				"C:/Users/5018761/Documents/GitHub/NeverForgotten-Chayzon-Sean-Kristina-Soph/NeverForgotten/Content/Blueprints/RetargetedCharacters/CBP_SandboxCharacter_SetupComparison.uasset",
+				"C:/Users/5018761/Documents/GitHub/NeverForgotten-Chayzon-Sean-Kristina-Soph/NeverForgotten/Content/Blueprints/Cameras/CameraAsset_SandboxCharacter.uasset",
+				"C:/Users/5018761/Documents/GitHub/NeverForgotten-Chayzon-Sean-Kristina-Soph/NeverForgotten/Content/Blueprints/Cameras/CameraAsset_SandboxCharacter_Balanced_Aim.uasset",
+				"C:/Users/5018761/Documents/GitHub/NeverForgotten-Chayzon-Sean-Kristina-Soph/NeverForgotten/Content/Blueprints/Cameras/CameraAsset_SandboxCharacter_Balanced_Freecam.uasset",
+				"C:/Users/5018761/Documents/GitHub/NeverForgotten-Chayzon-Sean-Kristina-Soph/NeverForgotten/Content/Blueprints/Cameras/CameraAsset_SandboxCharacter_Balanced_Strafe.uasset",
+				"C:/Users/5018761/Documents/GitHub/NeverForgotten-Chayzon-Sean-Kristina-Soph/NeverForgotten/Content/Blueprints/Cameras/CameraAsset_SandboxCharacter_Close_Aim.uasset",
+				"C:/Users/5018761/Documents/GitHub/NeverForgotten-Chayzon-Sean-Kristina-Soph/NeverForgotten/Content/Blueprints/Cameras/CameraAsset_SandboxCharacter_Close_Freecam.uasset",
+				"C:/Users/5018761/Documents/GitHub/NeverForgotten-Chayzon-Sean-Kristina-Soph/NeverForgotten/Content/Blueprints/Cameras/CameraAsset_SandboxCharacter_Close_Strafe.uasset",
+				"C:/Users/5018761/Documents/GitHub/NeverForgotten-Chayzon-Sean-Kristina-Soph/NeverForgotten/Content/Blueprints/Cameras/CameraAsset_SandboxCharacter_Crouch_Offset.uasset",
+				"C:/Users/5018761/Documents/GitHub/NeverForgotten-Chayzon-Sean-Kristina-Soph/NeverForgotten/Content/Blueprints/Cameras/CameraAsset_SandboxCharacter_Far_Aim.uasset",
+				"C:/Users/5018761/Documents/GitHub/NeverForgotten-Chayzon-Sean-Kristina-Soph/NeverForgotten/Content/Blueprints/Cameras/CameraAsset_SandboxCharacter_Far_Freecam.uasset",
+				"C:/Users/5018761/Documents/GitHub/NeverForgotten-Chayzon-Sean-Kristina-Soph/NeverForgotten/Content/Blueprints/Cameras/CameraAsset_SandboxCharacter_Far_Strafe.uasset",
+				"C:/Users/5018761/Documents/GitHub/NeverForgotten-Chayzon-Sean-Kristina-Soph/NeverForgotten/Content/Blueprints/Cameras/CameraDirector_SandboxCharacter.uasset",
+				"C:/Users/5018761/Documents/GitHub/NeverForgotten-Chayzon-Sean-Kristina-Soph/GameAnimationSample/Content/Blueprints/CBP_SandboxCharacter.uasset"
+			]
+		}
+	]
+}
