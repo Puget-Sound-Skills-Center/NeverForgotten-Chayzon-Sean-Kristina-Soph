@@ -3644,3 +3644,21 @@ FPackageName: Skipped package /Game/StarterContent/Particles/Materials/M_Heat_Di
 [2026.03.31-17.15.59:676][ 55]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2026.03.31-17.15.59:686][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
 [2026.03.31-17.15.59:761][ 56]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2026.03.31-17.16.27:460][334]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2026.03.31-17.16.28:641][334]LogSlate: Window 'Save Content' being destroyed
+[2026.03.31-17.16.28:670][334]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.31-17.16.28:729][334]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/CBP_SandboxCharacter] ([2] browsable assets)...
+[2026.03.31-17.16.28:779][334]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/CBP_SandboxCharacter.CBP_SandboxCharacter]
+[2026.03.31-17.16.28:779][334]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/CBP_SandboxCharacter]
+[2026.03.31-17.16.29:114][334]LogSavePackage: Moving output files for package: /Game/Blueprints/CBP_SandboxCharacter
+[2026.03.31-17.16.29:115][334]LogSavePackage: Moving '../../../../../Users/5023012/Downloads/GameAnimationSample/NeverForgotten-Chayzon-Sean-Kristina-Soph/NeverForgotten/Saved/CBP_SandboxCharacter52CA2D5048FB58FDD73ABCAAC1C87FE6.tmp' to '../../../../../Users/5023012/Downloads/GameAnimationSample/NeverForgotten-Chayzon-Sean-Kristina-Soph/NeverForgotten/Content/Blueprints/CBP_SandboxCharacter.uasset'
+[2026.03.31-17.16.29:128][334]LogFileHelpers: InternalPromptForCheckoutAndSave took 458.369 ms (total: 4.52 sec)
+[2026.03.31-17.16.29:195][334]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.31-17.16.29:195][334]LogContentValidation: Enabled validators:
+[2026.03.31-17.16.29:195][334]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.31-17.16.29:195][334]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.31-17.16.29:195][334]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.31-17.16.29:195][334]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.31-17.16.29:195][334]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.31-17.16.29:195][334]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.31-17.16.29:195][334]AssetCheck: /Game/Blueprints/CBP_SandboxCharacter Validating asset
