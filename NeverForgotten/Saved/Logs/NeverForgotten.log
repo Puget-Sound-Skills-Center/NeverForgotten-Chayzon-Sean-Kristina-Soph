@@ -3379,3 +3379,268 @@ FPackageName: Skipped package /Game/StarterContent/Particles/Materials/M_Heat_Di
 [2026.03.31-17.13.53:679][280]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2026.03.31-17.13.53:679][280]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.03.31-17.13.53:680][280]AssetCheck: /Game/UI/WP_Stamina Validating asset
+[2026.03.31-17.14.42:044][756]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.31-17.14.42:072][756]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.31-17.14.42:104][756]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_DefaultLevel
+[2026.03.31-17.14.42:171][756]LogPlayLevel: PIE: StaticDuplicateObject took: (0.068150s)
+[2026.03.31-17.14.42:171][756]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/DefaultLevel.DefaultLevel to /Game/Levels/UEDPIE_0_DefaultLevel.DefaultLevel (0.068216s)
+[2026.03.31-17.14.42:213][756]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2026.03.31-17.14.42:228][756]LogChaosDD: Creating Chaos Debug Draw Scene for world DefaultLevel
+[2026.03.31-17.14.42:231][756]LogPlayLevel: PIE: World Init took: (0.002557s)
+[2026.03.31-17.14.42:232][756]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2026.03.31-17.14.42:232][756]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.31-17.14.42:232][756]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.31-17.14.42:232][756]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.31-17.14.42:232][756]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.31-17.14.42:232][756]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.31-17.14.42:232][756]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.31-17.14.42:232][756]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.31-17.14.42:232][756]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.31-17.14.42:232][756]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.31-17.14.42:232][756]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.31-17.14.42:232][756]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.31-17.14.42:235][756]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.31-17.14.42:255][756]LogAudioMixer: Display: Using Audio Hardware Device Headphones (High Definition Audio Device)
+[2026.03.31-17.14.42:256][756]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.31-17.14.42:256][756]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.31-17.14.42:256][756]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.31-17.14.42:258][756]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2026.03.31-17.14.42:258][756]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2026.03.31-17.14.42:261][756]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2026.03.31-17.14.42:261][756]LogInit: FAudioDevice initialized with ID 11.
+[2026.03.31-17.14.42:261][756]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2026.03.31-17.14.42:261][756]LogAudio: Display: Audio Device (ID: 11) registered with world 'DefaultLevel'.
+[2026.03.31-17.14.42:261][756]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2026.03.31-17.14.42:265][756]LogLoad: Game class is 'GM_Sandbox_C'
+[2026.03.31-17.14.42:277][756]LogWorld: Bringing World /Game/Levels/UEDPIE_0_DefaultLevel.DefaultLevel up for play (max tick rate 0) at 2026.03.31-10.14.42
+[2026.03.31-17.14.42:277][756]LogWorld: Bringing up level for play took: 0.011612
+[2026.03.31-17.14.42:280][756]LogOnline: OSS: Created online subsystem instance for: :Context_46
+[2026.03.31-17.14.42:285][756]LogCameraSystem: Creating camera system host for gameplay camera 'CBP_SandboxCharacter_C_0'.
+[2026.03.31-17.14.42:288][756]LogCameraSystem: Activating gameplay camera 'GameplayCamera' with mode 'EGameplayCameraComponentActivationMode::Push'.
+[2026.03.31-17.14.42:291][756]PIE: Server logged in
+[2026.03.31-17.14.42:295][756]PIE: Play in editor total start time 0.24 seconds.
+[2026.03.31-17.14.44:226][897]LogBlueprintUserMessages: [CBP_SandboxCharacter_C_0] 98.0
+[2026.03.31-17.14.44:642][928]LogBlueprintUserMessages: [CBP_SandboxCharacter_C_0] 100.0
+[2026.03.31-17.14.44:844][945]LogBlueprintUserMessages: [CBP_SandboxCharacter_C_0] 100.0
+[2026.03.31-17.14.45:056][962]LogBlueprintUserMessages: [CBP_SandboxCharacter_C_0] 100.0
+[2026.03.31-17.14.45:261][979]LogBlueprintUserMessages: [CBP_SandboxCharacter_C_0] 100.0
+[2026.03.31-17.14.45:461][996]LogBlueprintUserMessages: [CBP_SandboxCharacter_C_0] 100.0
+[2026.03.31-17.14.45:663][ 13]LogBlueprintUserMessages: [CBP_SandboxCharacter_C_0] 100.0
+[2026.03.31-17.14.45:871][ 31]LogBlueprintUserMessages: [CBP_SandboxCharacter_C_0] 100.0
+[2026.03.31-17.14.46:076][ 48]LogBlueprintUserMessages: [CBP_SandboxCharacter_C_0] 100.0
+[2026.03.31-17.14.46:283][ 64]LogBlueprintUserMessages: [CBP_SandboxCharacter_C_0] 100.0
+[2026.03.31-17.14.46:490][ 81]LogBlueprintUserMessages: [CBP_SandboxCharacter_C_0] 100.0
+[2026.03.31-17.14.46:695][ 97]LogBlueprintUserMessages: [CBP_SandboxCharacter_C_0] 100.0
+[2026.03.31-17.14.46:901][114]LogBlueprintUserMessages: [CBP_SandboxCharacter_C_0] 98.0
+[2026.03.31-17.14.48:035][205]LogBlueprintUserMessages: [CBP_SandboxCharacter_C_0] 108.0
+[2026.03.31-17.14.48:240][223]LogBlueprintUserMessages: [CBP_SandboxCharacter_C_0] 108.0
+[2026.03.31-17.14.48:443][241]LogBlueprintUserMessages: [CBP_SandboxCharacter_C_0] 108.0
+[2026.03.31-17.14.48:653][260]LogBlueprintUserMessages: [CBP_SandboxCharacter_C_0] 108.0
+[2026.03.31-17.14.48:861][279]LogBlueprintUserMessages: [CBP_SandboxCharacter_C_0] 108.0
+[2026.03.31-17.14.49:068][297]LogBlueprintUserMessages: [CBP_SandboxCharacter_C_0] 106.0
+[2026.03.31-17.14.50:034][379]LogBlueprintUserMessages: [CBP_SandboxCharacter_C_0] 114.0
+[2026.03.31-17.14.50:237][397]LogBlueprintUserMessages: [CBP_SandboxCharacter_C_0] 114.0
+[2026.03.31-17.14.50:446][413]LogBlueprintUserMessages: [CBP_SandboxCharacter_C_0] 114.0
+[2026.03.31-17.14.50:650][431]LogBlueprintUserMessages: [CBP_SandboxCharacter_C_0] 114.0
+[2026.03.31-17.14.50:850][449]LogBlueprintUserMessages: [CBP_SandboxCharacter_C_0] 114.0
+[2026.03.31-17.14.51:053][467]LogBlueprintUserMessages: [CBP_SandboxCharacter_C_0] 112.0
+[2026.03.31-17.14.53:543][677]LogBlueprintUserMessages: [CBP_SandboxCharacter_C_0] 134.0
+[2026.03.31-17.14.53:744][694]LogBlueprintUserMessages: [CBP_SandboxCharacter_C_0] 134.0
+[2026.03.31-17.14.53:951][712]LogBlueprintUserMessages: [CBP_SandboxCharacter_C_0] 134.0
+[2026.03.31-17.14.54:355][746]LogBlueprintUserMessages: [CBP_SandboxCharacter_C_0] 134.0
+[2026.03.31-17.14.55:339][832]LogBlueprintUserMessages: [CBP_SandboxCharacter_C_0] 140.0
+[2026.03.31-17.14.59:546][188]LogBlueprintUserMessages: [CBP_SandboxCharacter_C_0] 178.0
+[2026.03.31-17.14.59:756][207]LogBlueprintUserMessages: [CBP_SandboxCharacter_C_0] 178.0
+[2026.03.31-17.14.59:969][226]LogBlueprintUserMessages: [CBP_SandboxCharacter_C_0] 178.0
+[2026.03.31-17.15.00:173][244]LogBlueprintUserMessages: [CBP_SandboxCharacter_C_0] 180.0
+[2026.03.31-17.15.00:383][263]LogBlueprintUserMessages: [CBP_SandboxCharacter_C_0] 178.0
+[2026.03.31-17.15.00:588][281]LogBlueprintUserMessages: [CBP_SandboxCharacter_C_0] 180.0
+[2026.03.31-17.15.00:791][299]LogBlueprintUserMessages: [CBP_SandboxCharacter_C_0] 178.0
+[2026.03.31-17.15.00:996][317]LogBlueprintUserMessages: [CBP_SandboxCharacter_C_0] 180.0
+[2026.03.31-17.15.01:197][335]LogBlueprintUserMessages: [CBP_SandboxCharacter_C_0] 178.0
+[2026.03.31-17.15.01:399][353]LogBlueprintUserMessages: [CBP_SandboxCharacter_C_0] 180.0
+[2026.03.31-17.15.01:605][371]LogBlueprintUserMessages: [CBP_SandboxCharacter_C_0] 178.0
+[2026.03.31-17.15.01:810][389]LogBlueprintUserMessages: [CBP_SandboxCharacter_C_0] 180.0
+[2026.03.31-17.15.02:014][407]LogBlueprintUserMessages: [CBP_SandboxCharacter_C_0] 178.0
+[2026.03.31-17.15.02:219][425]LogBlueprintUserMessages: [CBP_SandboxCharacter_C_0] 178.0
+[2026.03.31-17.15.04:104][588]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.31-17.15.04:104][588]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_DefaultLevel
+[2026.03.31-17.15.04:105][588]LogCameraSystem: Deactivating gameplay camera 'GameplayCamera'.
+[2026.03.31-17.15.04:105][588]LogWorld: UWorld::CleanupWorld for DefaultLevel, bSessionEnded=true, bCleanupResources=true
+[2026.03.31-17.15.04:107][588]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.31-17.15.04:109][588]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.31-17.15.04:127][588]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.31-17.15.04:168][588]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.31-17.15.04:169][588]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2026.03.31-17.15.04:169][588]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11, StreamState=4
+[2026.03.31-17.15.04:171][588]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11, StreamState=2
+[2026.03.31-17.15.04:176][588]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.31-17.15.04:183][588]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2026.03.31-17.15.04:259][589]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2026.03.31-17.15.19:022][815]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2026.03.31-17.15.21:297][960]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.31-17.15.21:322][960]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.31-17.15.21:352][960]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_DefaultLevel
+[2026.03.31-17.15.21:419][960]LogPlayLevel: PIE: StaticDuplicateObject took: (0.066180s)
+[2026.03.31-17.15.21:419][960]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/DefaultLevel.DefaultLevel to /Game/Levels/UEDPIE_0_DefaultLevel.DefaultLevel (0.066234s)
+[2026.03.31-17.15.21:467][960]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2026.03.31-17.15.21:474][960]LogChaosDD: Creating Chaos Debug Draw Scene for world DefaultLevel
+[2026.03.31-17.15.21:477][960]LogPlayLevel: PIE: World Init took: (0.002709s)
+[2026.03.31-17.15.21:478][960]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2026.03.31-17.15.21:478][960]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.31-17.15.21:478][960]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.31-17.15.21:478][960]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.31-17.15.21:478][960]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.31-17.15.21:478][960]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.31-17.15.21:478][960]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.31-17.15.21:478][960]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.31-17.15.21:478][960]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.31-17.15.21:478][960]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.31-17.15.21:478][960]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.31-17.15.21:478][960]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.31-17.15.21:481][960]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.31-17.15.21:503][960]LogAudioMixer: Display: Using Audio Hardware Device Headphones (High Definition Audio Device)
+[2026.03.31-17.15.21:503][960]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.31-17.15.21:503][960]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.31-17.15.21:503][960]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.31-17.15.21:504][960]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2026.03.31-17.15.21:504][960]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2026.03.31-17.15.21:507][960]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2026.03.31-17.15.21:507][960]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2026.03.31-17.15.21:507][960]LogInit: FAudioDevice initialized with ID 12.
+[2026.03.31-17.15.21:507][960]LogAudio: Display: Audio Device (ID: 12) registered with world 'DefaultLevel'.
+[2026.03.31-17.15.21:507][960]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2026.03.31-17.15.21:512][960]LogLoad: Game class is 'GM_Sandbox_C'
+[2026.03.31-17.15.21:524][960]LogWorld: Bringing World /Game/Levels/UEDPIE_0_DefaultLevel.DefaultLevel up for play (max tick rate 0) at 2026.03.31-10.15.21
+[2026.03.31-17.15.21:524][960]LogWorld: Bringing up level for play took: 0.011497
+[2026.03.31-17.15.21:527][960]LogOnline: OSS: Created online subsystem instance for: :Context_47
+[2026.03.31-17.15.21:530][960]LogCameraSystem: Creating camera system host for gameplay camera 'CBP_SandboxCharacter_C_0'.
+[2026.03.31-17.15.21:534][960]LogCameraSystem: Activating gameplay camera 'GameplayCamera' with mode 'EGameplayCameraComponentActivationMode::Push'.
+[2026.03.31-17.15.21:538][960]PIE: Server logged in
+[2026.03.31-17.15.21:541][960]PIE: Play in editor total start time 0.234 seconds.
+[2026.03.31-17.15.23:435][114]LogBlueprintUserMessages: [CBP_SandboxCharacter_C_0] 98.0
+[2026.03.31-17.15.23:646][132]LogBlueprintUserMessages: [CBP_SandboxCharacter_C_0] 96.0
+[2026.03.31-17.15.23:847][149]LogBlueprintUserMessages: [CBP_SandboxCharacter_C_0] 94.0
+[2026.03.31-17.15.24:057][167]LogBlueprintUserMessages: [CBP_SandboxCharacter_C_0] 92.0
+[2026.03.31-17.15.24:265][185]LogBlueprintUserMessages: [CBP_SandboxCharacter_C_0] 90.0
+[2026.03.31-17.15.24:470][203]LogBlueprintUserMessages: [CBP_SandboxCharacter_C_0] 88.0
+[2026.03.31-17.15.24:677][221]LogBlueprintUserMessages: [CBP_SandboxCharacter_C_0] 86.0
+[2026.03.31-17.15.24:884][239]LogBlueprintUserMessages: [CBP_SandboxCharacter_C_0] 84.0
+[2026.03.31-17.15.31:233][795]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.31-17.15.31:233][795]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_DefaultLevel
+[2026.03.31-17.15.31:234][795]LogCameraSystem: Deactivating gameplay camera 'GameplayCamera'.
+[2026.03.31-17.15.31:234][795]LogWorld: UWorld::CleanupWorld for DefaultLevel, bSessionEnded=true, bCleanupResources=true
+[2026.03.31-17.15.31:236][795]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.31-17.15.31:238][795]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.31-17.15.31:257][795]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.31-17.15.31:297][795]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.31-17.15.31:297][795]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2026.03.31-17.15.31:297][795]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12, StreamState=4
+[2026.03.31-17.15.31:300][795]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12, StreamState=2
+[2026.03.31-17.15.31:306][795]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.31-17.15.31:313][795]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2026.03.31-17.15.31:388][796]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2026.03.31-17.15.37:214][250]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2026.03.31-17.15.41:104][517]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.31-17.15.41:131][517]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.31-17.15.41:152][517]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_DefaultLevel
+[2026.03.31-17.15.41:219][517]LogPlayLevel: PIE: StaticDuplicateObject took: (0.065992s)
+[2026.03.31-17.15.41:219][517]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/DefaultLevel.DefaultLevel to /Game/Levels/UEDPIE_0_DefaultLevel.DefaultLevel (0.066048s)
+[2026.03.31-17.15.41:271][517]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2026.03.31-17.15.41:280][517]LogChaosDD: Creating Chaos Debug Draw Scene for world DefaultLevel
+[2026.03.31-17.15.41:283][517]LogPlayLevel: PIE: World Init took: (0.003206s)
+[2026.03.31-17.15.41:285][517]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2026.03.31-17.15.41:285][517]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.31-17.15.41:285][517]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.31-17.15.41:285][517]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.31-17.15.41:285][517]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.31-17.15.41:285][517]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.31-17.15.41:285][517]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.31-17.15.41:285][517]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.31-17.15.41:285][517]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.31-17.15.41:285][517]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.31-17.15.41:285][517]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.31-17.15.41:285][517]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.31-17.15.41:289][517]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.31-17.15.41:312][517]LogAudioMixer: Display: Using Audio Hardware Device Headphones (High Definition Audio Device)
+[2026.03.31-17.15.41:313][517]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.31-17.15.41:313][517]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.31-17.15.41:313][517]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.31-17.15.41:314][517]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2026.03.31-17.15.41:315][517]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2026.03.31-17.15.41:318][517]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2026.03.31-17.15.41:318][517]LogInit: FAudioDevice initialized with ID 13.
+[2026.03.31-17.15.41:318][517]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2026.03.31-17.15.41:318][517]LogAudio: Display: Audio Device (ID: 13) registered with world 'DefaultLevel'.
+[2026.03.31-17.15.41:318][517]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2026.03.31-17.15.41:324][517]LogLoad: Game class is 'GM_Sandbox_C'
+[2026.03.31-17.15.41:335][517]LogWorld: Bringing World /Game/Levels/UEDPIE_0_DefaultLevel.DefaultLevel up for play (max tick rate 0) at 2026.03.31-10.15.41
+[2026.03.31-17.15.41:336][517]LogWorld: Bringing up level for play took: 0.011163
+[2026.03.31-17.15.41:339][517]LogOnline: OSS: Created online subsystem instance for: :Context_48
+[2026.03.31-17.15.41:343][517]LogCameraSystem: Creating camera system host for gameplay camera 'CBP_SandboxCharacter_C_0'.
+[2026.03.31-17.15.41:346][517]LogCameraSystem: Activating gameplay camera 'GameplayCamera' with mode 'EGameplayCameraComponentActivationMode::Push'.
+[2026.03.31-17.15.41:350][517]PIE: Server logged in
+[2026.03.31-17.15.41:353][517]PIE: Play in editor total start time 0.238 seconds.
+[2026.03.31-17.15.43:380][683]LogBlueprintUserMessages: [CBP_SandboxCharacter_C_0] 98.0
+[2026.03.31-17.15.43:588][700]LogBlueprintUserMessages: [CBP_SandboxCharacter_C_0] 96.0
+[2026.03.31-17.15.43:797][718]LogBlueprintUserMessages: [CBP_SandboxCharacter_C_0] 94.0
+[2026.03.31-17.15.44:007][736]LogBlueprintUserMessages: [CBP_SandboxCharacter_C_0] 92.0
+[2026.03.31-17.15.44:214][754]LogBlueprintUserMessages: [CBP_SandboxCharacter_C_0] 90.0
+[2026.03.31-17.15.44:419][769]LogBlueprintUserMessages: [CBP_SandboxCharacter_C_0] 88.0
+[2026.03.31-17.15.44:626][787]LogBlueprintUserMessages: [CBP_SandboxCharacter_C_0] 86.0
+[2026.03.31-17.15.44:831][805]LogBlueprintUserMessages: [CBP_SandboxCharacter_C_0] 84.0
+[2026.03.31-17.15.45:038][823]LogBlueprintUserMessages: [CBP_SandboxCharacter_C_0] 82.0
+[2026.03.31-17.15.46:291][933]LogBlueprintUserMessages: [CBP_SandboxCharacter_C_0] 92.0
+[2026.03.31-17.15.46:499][951]LogBlueprintUserMessages: [CBP_SandboxCharacter_C_0] 92.0
+[2026.03.31-17.15.46:699][968]LogBlueprintUserMessages: [CBP_SandboxCharacter_C_0] 92.0
+[2026.03.31-17.15.46:903][985]LogBlueprintUserMessages: [CBP_SandboxCharacter_C_0] 92.0
+[2026.03.31-17.15.47:114][  3]LogBlueprintUserMessages: [CBP_SandboxCharacter_C_0] 92.0
+[2026.03.31-17.15.47:331][ 19]LogBlueprintUserMessages: [CBP_SandboxCharacter_C_0] 92.0
+[2026.03.31-17.15.47:539][ 36]LogBlueprintUserMessages: [CBP_SandboxCharacter_C_0] 92.0
+[2026.03.31-17.15.47:751][ 54]LogBlueprintUserMessages: [CBP_SandboxCharacter_C_0] 92.0
+[2026.03.31-17.15.47:957][ 72]LogBlueprintUserMessages: [CBP_SandboxCharacter_C_0] 92.0
+[2026.03.31-17.15.48:158][ 89]LogBlueprintUserMessages: [CBP_SandboxCharacter_C_0] 92.0
+[2026.03.31-17.15.48:366][106]LogBlueprintUserMessages: [CBP_SandboxCharacter_C_0] 92.0
+[2026.03.31-17.15.49:660][214]LogBlueprintUserMessages: [CBP_SandboxCharacter_C_0] 98.0
+[2026.03.31-17.15.49:868][231]LogBlueprintUserMessages: [CBP_SandboxCharacter_C_0] 96.0
+[2026.03.31-17.15.50:076][248]LogBlueprintUserMessages: [CBP_SandboxCharacter_C_0] 94.0
+[2026.03.31-17.15.50:293][265]LogBlueprintUserMessages: [CBP_SandboxCharacter_C_0] 92.0
+[2026.03.31-17.15.50:500][281]LogBlueprintUserMessages: [CBP_SandboxCharacter_C_0] 90.0
+[2026.03.31-17.15.50:706][298]LogBlueprintUserMessages: [CBP_SandboxCharacter_C_0] 88.0
+[2026.03.31-17.15.50:908][315]LogBlueprintUserMessages: [CBP_SandboxCharacter_C_0] 86.0
+[2026.03.31-17.15.51:114][333]LogBlueprintUserMessages: [CBP_SandboxCharacter_C_0] 84.0
+[2026.03.31-17.15.51:317][351]LogBlueprintUserMessages: [CBP_SandboxCharacter_C_0] 82.0
+[2026.03.31-17.15.51:526][369]LogBlueprintUserMessages: [CBP_SandboxCharacter_C_0] 80.0
+[2026.03.31-17.15.51:726][384]LogBlueprintUserMessages: [CBP_SandboxCharacter_C_0] 78.0
+[2026.03.31-17.15.51:940][399]LogBlueprintUserMessages: [CBP_SandboxCharacter_C_0] 76.0
+[2026.03.31-17.15.52:140][415]LogBlueprintUserMessages: [CBP_SandboxCharacter_C_0] 74.0
+[2026.03.31-17.15.52:339][431]LogBlueprintUserMessages: [CBP_SandboxCharacter_C_0] 72.0
+[2026.03.31-17.15.52:545][448]LogBlueprintUserMessages: [CBP_SandboxCharacter_C_0] 70.0
+[2026.03.31-17.15.53:960][573]LogBlueprintUserMessages: [CBP_SandboxCharacter_C_0] 82.0
+[2026.03.31-17.15.54:165][591]LogBlueprintUserMessages: [CBP_SandboxCharacter_C_0] 82.0
+[2026.03.31-17.15.54:376][610]LogBlueprintUserMessages: [CBP_SandboxCharacter_C_0] 82.0
+[2026.03.31-17.15.54:582][628]LogBlueprintUserMessages: [CBP_SandboxCharacter_C_0] 82.0
+[2026.03.31-17.15.54:787][646]LogBlueprintUserMessages: [CBP_SandboxCharacter_C_0] 82.0
+[2026.03.31-17.15.54:988][664]LogBlueprintUserMessages: [CBP_SandboxCharacter_C_0] 80.0
+[2026.03.31-17.15.57:887][915]LogBlueprintUserMessages: [CBP_SandboxCharacter_C_0] 98.0
+[2026.03.31-17.15.58:097][933]LogBlueprintUserMessages: [CBP_SandboxCharacter_C_0] 96.0
+[2026.03.31-17.15.58:307][951]LogBlueprintUserMessages: [CBP_SandboxCharacter_C_0] 94.0
+[2026.03.31-17.15.58:507][968]LogBlueprintUserMessages: [CBP_SandboxCharacter_C_0] 92.0
+[2026.03.31-17.15.58:708][985]LogBlueprintUserMessages: [CBP_SandboxCharacter_C_0] 90.0
+[2026.03.31-17.15.58:918][  3]LogBlueprintUserMessages: [CBP_SandboxCharacter_C_0] 88.0
+[2026.03.31-17.15.59:123][ 20]LogBlueprintUserMessages: [CBP_SandboxCharacter_C_0] 86.0
+[2026.03.31-17.15.59:326][ 34]LogBlueprintUserMessages: [CBP_SandboxCharacter_C_0] 84.0
+[2026.03.31-17.15.59:603][ 55]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.31-17.15.59:603][ 55]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_DefaultLevel
+[2026.03.31-17.15.59:604][ 55]LogCameraSystem: Deactivating gameplay camera 'GameplayCamera'.
+[2026.03.31-17.15.59:604][ 55]LogWorld: UWorld::CleanupWorld for DefaultLevel, bSessionEnded=true, bCleanupResources=true
+[2026.03.31-17.15.59:606][ 55]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.31-17.15.59:608][ 55]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.31-17.15.59:627][ 55]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.31-17.15.59:667][ 55]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.31-17.15.59:668][ 55]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2026.03.31-17.15.59:668][ 55]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13, StreamState=4
+[2026.03.31-17.15.59:671][ 55]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13, StreamState=2
+[2026.03.31-17.15.59:676][ 55]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.31-17.15.59:686][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2026.03.31-17.15.59:761][ 56]LogPlayLevel: Display: Destroying online subsystem :Context_48
