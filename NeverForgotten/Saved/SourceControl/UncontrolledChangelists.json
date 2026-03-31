@@ -5,13 +5,6 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/5022810/Documents/GitHub/NeverForgotten-Chayzon-Sean-Kristina-Soph/NeverForgotten/Content/Main_Menu.umap",
-				"C:/Users/5022810/Documents/GitHub/NeverForgotten-Chayzon-Sean-Kristina-Soph/NeverForgotten/Content/MainMenu/Main_Menu.umap",
-				"C:/Users/5022810/Documents/GitHub/NeverForgotten-Chayzon-Sean-Kristina-Soph/NeverForgotten/Content/MainMenu/MainMenu.uasset",
-				"C:/Users/5022810/Documents/GitHub/NeverForgotten-Chayzon-Sean-Kristina-Soph/NeverForgotten/Content/MainMenu/f193072a-8d63-4724-9957-edb4f1ec6d34.uasset",
-				"C:/Users/5022810/Documents/GitHub/NeverForgotten-Chayzon-Sean-Kristina-Soph/NeverForgotten/Content/MainMenu/MenuGM.uasset",
-				"C:/Users/5022810/Documents/GitHub/NeverForgotten-Chayzon-Sean-Kristina-Soph/NeverForgotten/Content/MainMenu/delosound-scary-horror-music-351315.uasset",
-				"C:/Users/5022810/Documents/GitHub/NeverForgotten-Chayzon-Sean-Kristina-Soph/NeverForgotten/Content/MainMenu/delosound-scary-horror-music-351315_Cue.uasset",
 				"C:/Users/5018761/Documents/GitHub/NeverForgotten-Chayzon-Sean-Kristina-Soph/NeverForgotten/Content/Blueprints/CBP_SandboxCharacter.uasset",
 				"C:/Users/5018761/Documents/GitHub/NeverForgotten-Chayzon-Sean-Kristina-Soph/NeverForgotten/Content/Blueprints/RetargetedCharacters/CBP_SandboxCharacter_Quinn.uasset",
 				"C:/Users/5018761/Documents/GitHub/NeverForgotten-Chayzon-Sean-Kristina-Soph/NeverForgotten/Content/Blueprints/RetargetedCharacters/CBP_SandboxCharacter_RetargetShowcase_Mannequins.uasset",
@@ -31,6 +24,14 @@
 				"C:/Users/5018761/Documents/GitHub/NeverForgotten-Chayzon-Sean-Kristina-Soph/NeverForgotten/Content/Blueprints/ABP_SandboxCharacter.uasset",
 				"C:/Users/5018761/Documents/GitHub/NeverForgotten-Chayzon-Sean-Kristina-Soph/NeverForgotten/Content/Blueprints/Cameras/NewCameraShakeAsset.uasset",
 				"C:/Users/5018761/Documents/GitHub/NeverForgotten-Chayzon-Sean-Kristina-Soph/NeverForgotten/Content/Blueprints/Cameras/Truefirstperson.uasset",
+				"C:/Users/5018761/Documents/GitHub/NeverForgotten-Chayzon-Sean-Kristina-Soph/NeverForgotten/Content/Levels/DefaultLevel.umap",
+				"C:/Users/5022810/Documents/GitHub/NeverForgotten-Chayzon-Sean-Kristina-Soph/NeverForgotten/Content/Main_Menu.umap",
+				"C:/Users/5022810/Documents/GitHub/NeverForgotten-Chayzon-Sean-Kristina-Soph/NeverForgotten/Content/MainMenu/Main_Menu.umap",
+				"C:/Users/5022810/Documents/GitHub/NeverForgotten-Chayzon-Sean-Kristina-Soph/NeverForgotten/Content/MainMenu/MainMenu.uasset",
+				"C:/Users/5022810/Documents/GitHub/NeverForgotten-Chayzon-Sean-Kristina-Soph/NeverForgotten/Content/MainMenu/f193072a-8d63-4724-9957-edb4f1ec6d34.uasset",
+				"C:/Users/5022810/Documents/GitHub/NeverForgotten-Chayzon-Sean-Kristina-Soph/NeverForgotten/Content/MainMenu/MenuGM.uasset",
+				"C:/Users/5022810/Documents/GitHub/NeverForgotten-Chayzon-Sean-Kristina-Soph/NeverForgotten/Content/MainMenu/delosound-scary-horror-music-351315.uasset",
+				"C:/Users/5022810/Documents/GitHub/NeverForgotten-Chayzon-Sean-Kristina-Soph/NeverForgotten/Content/MainMenu/delosound-scary-horror-music-351315_Cue.uasset",
 				"C:/Users/5018761/Documents/GitHub/NeverForgotten-Chayzon-Sean-Kristina-Soph/GameAnimationSample/Content/Blueprints/CBP_SandboxCharacter.uasset"
 			]
 		}
